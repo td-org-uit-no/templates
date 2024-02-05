@@ -1,0 +1,3 @@
+[submodule "assignment-template-typst"]
+	path = assignment-template-typst
+	url = git@github.com:td-org-uit-no/assignment-template-typst.git
